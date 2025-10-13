@@ -11,5 +11,5 @@ int main() {
     cout<<"umur:" <<umur<<endl;
     cout<<"tinggi:" <<tinggi<<endl;
     cout<<"status aktif:" <<aktif<<endl;
-    return0;
+    return 0; 
 }
